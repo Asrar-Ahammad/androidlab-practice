@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     public class MyCustomView extends View {
 
         public MyCustomView(Context context) {
+
             super(context);
         }
 
